@@ -11,14 +11,14 @@ J'essaie de différecnicer les paragraphes pour aussi vois leur limites.
 
 Je vais à présent écrire du code (en *C* bien-sur)
 
-```#include <stdio.h>
+`#include <stdio.h>
 
 int main(){
   printf("Hello World !\n");
   return 0;
 }
 Je teste ici d'ecrire du texte dans la parie code.
-```
+`
 Je suis normalent, si tout ce passe **bien**, être sortie de la zone de code.
 J'essaie de modifier la page web dans le fichier index.md
 
