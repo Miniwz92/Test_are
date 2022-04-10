@@ -11,9 +11,7 @@ J'essaie de différecnicer les paragraphes pour aussi vois leur limites.
 
 Je vais à présent écrire du `Code`(en *C* bien-sur)
 
-`#include <stdio.h>
-
-int main(){
+`int main(){
   printf("Hello World !\n");
   return 0;
 }
